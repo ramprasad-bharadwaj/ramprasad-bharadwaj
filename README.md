@@ -12,7 +12,9 @@ I also enjoy helping my friends with their projects and clearing their doubts. I
 I am an enthusiast who likes to challenge myself and learn new things. I am always eager to expand my horizons and discover new possibilities. I am not afraid of failure, as I see it as an opportunity to learn from my mistakes and improve myself."
 
 - 📫 How to reach me :
+- LinkedIn - linkedin.com/in/ramprasad-bharadwaj
 - mail me - ramprasadbharadwajsn@gmail.com
+- website - ramprasad-bharadwaj.github.io/portfolio-one/
 - Insta id - ramprasad_bharadwaj
 
 <!---
