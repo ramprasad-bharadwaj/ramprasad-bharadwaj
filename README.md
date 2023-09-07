@@ -14,8 +14,8 @@ I am an enthusiast who likes to challenge myself and learn new things. I am alwa
 - 📫 How to reach me :
 - LinkedIn - [linkedin.com/in/ramprasad-bharadwaj](https://www.linkedin.com/in/ramprasad-bharadwaj/)
 - mail me - ramprasadbharadwajsn@gmail.com
-- website - https://ramprasad-bharadwaj.github.io/portfolio-one/
-- Insta id - https://www.instagram.com/ramprasad_bharadwaj/
+- website - [ramprasad-bharadwaj.github.io/portfolio-one/](https://ramprasad-bharadwaj.github.io/portfolio-one/)
+- Insta id - [www.instagram.com/ramprasad_bharadwaj/](https://www.instagram.com/ramprasad_bharadwaj/)
 
 <!---
 ramprasad-bharadwaj/ramprasad-bharadwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
