@@ -14,7 +14,6 @@ I am an enthusiast who likes to challenge myself and learn new things. I am alwa
 - 📫 How to reach me :
 - LinkedIn - [linkedin.com/in/ramprasad-bharadwaj](https://www.linkedin.com/in/ramprasad-bharadwaj/)
 - mail me - ramprasadbharadwajsn@gmail.com
-- website - [ramprasad-bharadwaj.github.io/portfolio-one/](https://ramprasad-bharadwaj.github.io/portfolio-one/)
 - Insta id - [www.instagram.com/ramprasad_bharadwaj/](https://www.instagram.com/ramprasad_bharadwaj/)
 
 <!---
